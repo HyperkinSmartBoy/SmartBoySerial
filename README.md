@@ -31,7 +31,7 @@
 5. Insert Phone (wait 10 seconds) for your smartboy warm up :D ***
 6. In MyOldBoy Go to Settings>Input>Key_Mappings and map the the corresponding buttons to your SmartBoy.
 7. To save your mappings, pull your phone out of the SmartBoy and hit the back button on your phone (Do Not hit the back button at the top of the screen!).
-8. Click "Here" to download the SmartBoy Serial App (1mb required)
+8. Click <a href="http://www.hyperkin.com/smartboy-app-release.apk">Here</a> to download the SmartBoy Serial App (1mb required)
 9. Install and Start the SmartBoy Serial App - If you are running Android 6.0+, you may see a request to Write or Draw over App - Turn the feature "ON".
 10. Accept All Permissions (we promise we aren't stealing your info, go offline if you are paranoid).
 11. Insert Phone (wait 10 seconds for your smartboy warm up) :D ***
