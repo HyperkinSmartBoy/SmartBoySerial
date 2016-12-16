@@ -39,10 +39,11 @@
 12. Enter the super secret cheat code (Down, Down, Right, A) to accept serial access.
 13. Insert Cartridge - Enjoy!**
 
-(Steps 1-10 for first time setup only)
+(Steps 1-11 for first time setup only)
 
 
 *** Anytime you insert your phone to the SmartBoy, it will take 8-10 seconds for your SmartBoy to boot up.
+
 ** For your first time setup you must navigate to the cartridge file. After the game dumps properly, Hit the MyOldBoy Button in the SmartBoy Serial App
 and navigate to /sdcard/HyperkinSmartboySerial/ and click the .gb file in that folder.
 
