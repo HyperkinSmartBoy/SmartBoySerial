@@ -24,7 +24,7 @@
 
 
 
-0. Make sure your SmartBoy is in Phone mode. If it is on PC mode switch it over to Phone.
+0. Make sure your SmartBoy is in Phone mode. If it is in PC mode switch it over to Phone.
 1. Go to your phone settings and activate 3rd party app installation.
 2. Go to the google play store and download "MyOldBoy" Free version (paid version if you want).
 3. Open "MyOldBoy" to accept permissions.
@@ -48,6 +48,7 @@
 and navigate to /sdcard/HyperkinSmartboySerial/ and click the .gb file in that folder.
 
 Optional Setup for advanced users:
+
 1. Activate Developer Mode.
 2. Activate USB Debugging.
 
