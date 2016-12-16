@@ -24,6 +24,7 @@
 
 
 
+0. Make sure your SmartBoy is in Phone mode. If it is on PC mode switch it over to Phone.
 1. Go to your phone settings and activate 3rd party app installation.
 2. Go to the google play store and download "MyOldBoy" Free version (paid version if you want).
 3. Open "MyOldBoy" to accept permissions.
