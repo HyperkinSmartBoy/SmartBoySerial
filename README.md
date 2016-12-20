@@ -52,4 +52,4 @@ Optional Setup for advanced users:
 1. Activate Developer Mode.
 2. Activate USB Debugging.
 
-
+Here is a video tutorial for setting up the SmartBoy: [Video tutorial](https://www.youtube.com/watch?v=9ot1vmfi4qQ)
