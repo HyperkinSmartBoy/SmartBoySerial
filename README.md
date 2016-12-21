@@ -52,4 +52,18 @@ Optional Setup for advanced users:
 1. Activate Developer Mode.
 2. Activate USB Debugging.
 
+# Video Tutorial
 Here is a video tutorial for setting up the SmartBoy: [Video tutorial](https://www.youtube.com/watch?v=9ot1vmfi4qQ)
+
+# Phone Compatibility List
+A list of compatible phones and issues
+
+[Compatibility List](https://docs.google.com/document/d/1XF1tO0vAtlcG2t23A63z2srj40gNsawvsPZfbeccP3c/edit?usp=sharing)
+
+Please leave us a comment in the document or email us at developer@hyperkin.com if you encounter any of the following:
+
+1. Your phone is on the list and does not work
+2. Your phone is not on the list and works
+3. Your phone comes up as incompatible, but is on the list
+4. Your phone comes up as compatible, but is not on the list
+
